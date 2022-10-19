@@ -111,24 +111,12 @@ h3{
     right: -38rem;
 }
 
-.tele{
+#tele{
 display: flex;
 justify-content: space-between;
 position: relative;
 bottom: 10rem;
 
 }
-/*
-.rul{
-position: relative;
-display: block;
-left: -6rem;
-top: 2rem;
-}
-/*
-.msg{
-    position: absolute;    
-    display: flex;
-    float: right;
-    
-}
+
+
