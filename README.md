@@ -1,2 +1,0 @@
-# cybergate
-*An imple*
