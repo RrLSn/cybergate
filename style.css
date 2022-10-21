@@ -111,12 +111,57 @@ h3{
     right: -38rem;
 }
 
-#tele{
+.tele{
+    display: flex;
+    position: relative;
+    bottom: 11rem;
+    left: 3rem;
+    width: 46rem;
+    background-color: white;
+}
+
+
+
+.msg {
+    float: right;
+    display: flex;
+    position: relative;
+    bottom: 20.5rem;
+    right: 3rem;
+    width: 46rem;
+    background-color: #f9f9f9;
+    height: 9rem;
+
+}
+
+h5 {
+    font-size: 1.6em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 15rem;
+}
+
+.conv{
+    
+    position: absolute;
+    padding-top: 3rem;
+    top: 0.2rem;
+    left: 8.5rem;
+    color: #36abd8;
+    font-size: 1em;
+    width: 55rem;
+    
+}
+
+#text{
+    color: #36abd8;
+    padding-top: 2rem;
+}
+/* #tele{
 display: flex;
 justify-content: space-between;
 position: relative;
 bottom: 10rem;
 
-}
+} */
 
 
