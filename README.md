@@ -20,6 +20,7 @@ https://github.com/RrLSn/cybergate.git
 # Demo
 [preview](https://rawcdn.githack.com/RrLSn/cybergate/a6840c874deb1723d0c469f9e2c2dbe56ae77da7/index.html)
  
+ ![screenshot](/media/Screenshot%202022-10-21%20160155.png)
 # Contact
 If you want to contact me, you can reach me at 
 - afolabisoditemitope@yahoo.com or 
